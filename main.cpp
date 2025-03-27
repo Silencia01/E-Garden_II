@@ -8,7 +8,7 @@ I'm also seeing funkiness from the 2 sensors themsleves - sensor 1 hovers at 300
 The digital pin now my option to use these as states to track when the sensor has be turned on 
 (I also now know what the led next to the power led is on the connector - it's not moisture levels) 
 
-The next step is to understand the varying sensor readings and build on the system architecture and find a way to calibrate the 2 sensors
+The next step is to understand the varying sensor readings and build on the system architecture and find a way to calibrate the 2 sensors.
 
 -- Taye. 
 
